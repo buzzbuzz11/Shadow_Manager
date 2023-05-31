@@ -12,4 +12,4 @@ To start using Shadow_Manager:
 
 ⭐Step 4: after clicking install it will give you a prompt which will state Quest or Pc select one of them once you do that⭐
 
-⭐Step 5: Enjoy 🙂
+🙂Step 5: Enjoy 🙂
