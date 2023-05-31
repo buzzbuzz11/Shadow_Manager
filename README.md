@@ -10,6 +10,8 @@ To start using Shadow_Manager:
 
 ⭐Step 3: select options then select needed addons or mods⭐
 
+![image](https://github.com/buzzbuzz11/Shadow_Manager/assets/134853991/6165d9d6-21da-4e0b-913e-89de3f3431fa)
+
 ⭐Step 4: after clicking install it will give you a prompt which will state Quest or Pc select one of them once you do that⭐
 
 🙂Step 5: Enjoy 🙂
