@@ -1,4 +1,4 @@
-Shadow_manger
+Shadow_Manger
 =============================
 Shadow_Manager is a Manager for Pc And Quest It comes with A Bunch Of Quality of Life Improvements to the game
 
